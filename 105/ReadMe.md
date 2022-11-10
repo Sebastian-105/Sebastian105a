@@ -5,8 +5,7 @@
 <p>Hello! Welcome to my Home page site.</P><p>My Username my name is Sebastian105. Don't judge!</p>
 <P>one should only be reading this if they are on my replit wtich I will change to a domain, so you wont know where I am storing this.</P>
 
-My name is <strong>Sebastian</strong> and I created this site to make sure my <a href="games.sebastian105.repl.co" target="_blank">games site</a> has a home page.
-  <p>If you need any help join the chatroom or put it in the feedback form.</p>
+<p>If you need any help join the chatroom or put it in the feedback form.</p>
   <p>If the <a href="school.sebastian105.repl.co">original site</a> is blocked than here is the link for the clone ---> <a href="school2.sebastian105.repl.co">here</a></p>
 <p>I will probably forget to update the changelog so dont be whine about it.</p>
 
